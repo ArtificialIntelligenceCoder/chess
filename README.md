@@ -1,3 +1,13 @@
+
+
+![1](https://github.com/user-attachments/assets/4bcdcfe8-62f6-4305-baa4-38895f07abf1)
+
+
+
+
+
+
+
 # Chess Coordinates Trainer
 
 ## Overview
