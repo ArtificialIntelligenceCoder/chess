@@ -55,8 +55,7 @@ This project is open source and available under the MIT License.
 ## Contributing
 Feel free to submit issues or pull requests if you have ideas to improve the trainer or want to contribute in any way.
 
-## Contact
-If you have any questions or suggestions, please contact [Your Name](mailto:your.email@example.com).
+
 
 ---
 Enjoy sharpening your chessboard recognition skills and have fun mastering the coordinates!
